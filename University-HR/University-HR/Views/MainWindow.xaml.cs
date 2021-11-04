@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace University_HR
+namespace University_HR.Views
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

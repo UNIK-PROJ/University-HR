@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\App.g.cs
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR_MarkupCompile.cache
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR_MarkupCompile.lref
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\bin\Debug\University-HR.exe.config
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\bin\Debug\University-HR.exe
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\bin\Debug\University-HR.pdb
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\Views\MainWindow.baml
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR.g.resources
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University_HR.Properties.Resources.resources
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR.exe
+C:\Users\Nikita\Desktop\unik-proj\University-HR\University-HR\University-HR\obj\Debug\University-HR.pdb
